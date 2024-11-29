@@ -1,0 +1,299 @@
+.main_div{
+    width: 100%;
+}
+
+
+.head{
+        height: 40px;
+        width:100% ;
+        background-color: grey;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.title{
+    color:bisque;
+    padding-top: 10px;
+
+}
+.head2{
+    height: 40px;
+    width:100% ;
+    background-color: white;
+    color: black;
+    padding-top: 20px;
+
+}
+.iphone_14_pro{
+
+    height: 600px;
+    width:100% ;
+    background-color: black;
+    color: white;
+
+}
+
+.iphone_14_pro_content{
+    padding-top: 20px;
+}
+.img_iphone_14_pro{
+
+    padding-top: 64px;
+}
+.iphone_14{
+
+    height: 600px;
+    width:100% ;
+    background-color: white;
+    color: black;
+
+
+}
+.iphone_14_content{
+    padding-top: 20px;
+}
+.img_iphone_14{
+
+   
+    padding-top: 79px;
+}
+.watch{
+
+    height: 600px;
+    width:100% ;
+    background-color: black;
+    color: white;
+
+}
+.watch_content{
+    padding-top: 20px;
+}
+.img_watch{
+
+   
+    padding-top: 96px;
+}
+.block1{
+
+    height: 400px;
+    width:100% ;
+    background-color:white;
+    color: black;
+    display: flex;
+   
+   
+    
+}
+
+.tradein{
+    background-color: white;
+    height: 400px;
+    width: 50%;
+    padding-bottom: 10px;
+    margin: 10px;
+    color: black;
+    padding-top: 26px;
+    
+
+}
+.img_tradein{
+    width: 100%;
+    height: auto;
+    margin-top: 48px;
+}
+.dc23{
+    background-color: black;
+    height: 400px;
+    width: 50%;
+    margin: 10px;
+    color: rgb(244, 243, 243);
+    padding-bottom: 10px;
+}
+.dc_content{
+    padding-top: 294px;
+}
+.img_dc{
+    margin-top: -297px;
+    
+}
+.block2{
+    height: 400px;
+    width:100% ;
+    background-color:  white;
+    margin-top: 27px;
+    display: flex;
+        
+} 
+ .ipad{
+    background-color: white(250, 250, 250);
+    height: 400px;
+    width: 50%;
+    margin: 10px;
+    color: black(12, 12, 12);
+    padding-bottom: 10px;
+    padding-top: 26px;
+    
+
+}
+.img_ipad{
+    width: 100%;
+    height: auto;
+    margin-top: 6px;
+}
+.mackbook{
+    background-color: black;
+    height: 400px;
+    width: 50%;
+    margin: 10px;
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 26px;
+
+}
+.img_mac{
+    width: 100%;
+    height: auto;
+    margin-top: 98px;
+
+}
+.block3{
+    height: 450px;
+    width:100% ;
+    background-color: white(137, 65, 65);
+    margin-top: 63px;
+    display: flex;
+        
+}
+.air{
+    background-color: white;
+    height: 400px;
+    width: 50%;
+    padding-bottom: 10px;
+    margin: 10px;
+    color: black;
+    padding-top: 26px;
+    
+
+}
+.img_air{
+    
+    margin-top: 59px;
+
+}
+.card{
+    background-color: white;
+    height: 400px;
+    width: 50%;
+    padding-bottom: 10px;
+    margin: 10px;
+    color: black;
+    padding-top: 26px;
+    
+
+}
+.img_card{
+    
+    margin-top: 69px;
+
+}
+.imgs{
+    height: 500px;
+    width: 100%;
+    background-color: brown;
+    color: white;
+}
+.content{
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(184, 185, 186);
+    
+   
+}
+.c{
+    height: fit-content;
+    width: 100%;
+    justify-content: center;
+    align-items: left;
+    padding-top: 50px;
+    font-size: 13px;
+    
+}
+.hr{
+    margin-left: 90px;
+}
+.lists{
+    
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(184, 185, 186);
+    display: flex;
+    
+}
+.li{
+    /* text-decoration: none; */
+    /* text-decoration-style: none; */
+    list-style-type: none;
+    
+
+
+}
+.l1{
+    height: fit-content;
+    width: fit-content;
+    margin-left: 113px;
+    text-decoration: none;
+    list-style-type: none; /* Removes bullets */
+   
+}
+.l2{
+    text-decoration: none;
+    height: fit-content;
+    width: fit-content;
+ justify-content: space-between;
+ margin-left: 113px;
+}
+.l3{
+    text-decoration: none;
+    height: fit-content;
+    width: fit-content;
+    justify-content: space-between;
+    margin-left: 113px;
+}
+.l4{
+    text-decoration: none;
+    height: fit-content;
+    width: fit-content;
+    justify-content: space-between;
+    margin-left: 113px;
+}
+    .l5{
+        text-decoration: none;
+        height: fit-content;
+        width: fit-content;
+        justify-content: space-between;
+        margin-left: 113px;
+    }
+.c2{
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(184, 185, 186);
+    justify-content: center;
+    align-items: left;
+    font-size: 13px;
+    
+    
+}
+.footer{
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(184, 185, 186);
+    justify-content: center;
+    align-items: left;
+    font-size: 13px;
+    
+
+
+}
